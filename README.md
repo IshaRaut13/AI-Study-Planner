@@ -2,6 +2,10 @@
 
 An intelligent study planning application that analyzes your syllabus, extracts topics with weightage analysis, and creates personalized study plans based on your exam timeline and study preferences.
 
+## 🎥 Demo Video
+
+Watch the demo here: [AI Study Planner Demo](https://drive.google.com/file/d/1tzOOxfONzGoiPC-1QIoCwnILS5mfK7LJ/view?usp=sharing) 
+
 ## ✨ Features
 
 ### 🆕 Enhanced Features (v2.0)
