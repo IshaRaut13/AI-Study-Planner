@@ -1,6 +1,6 @@
-# AI Study Planner Pro 🚀
+# AI Study Planner 🚀
 
-An intelligent study planning application that analyzes your syllabus, extracts topics with weightage analysis, and creates personalized study plans based on your exam timeline and study preferences.
+An AI Agent that plans your study by analyzing your syllabus, extracts topics with weightage analysis, and creates personalized study plans based on your exam timeline and study preferences.
 
 ## 🎥 Demo Video
 
